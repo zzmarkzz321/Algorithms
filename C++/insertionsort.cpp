@@ -6,6 +6,12 @@ using namespace std;
 
 /*
 
+	Author @MarkRenzoSantiago
+
+	Insertion sort implementation
+
+	Created for UCM CSE 100 Algorithms class
+
 	1 5 4 8 7
 
 	1 5
